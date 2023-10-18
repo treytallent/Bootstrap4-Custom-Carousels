@@ -1,3 +1,5 @@
+Live preview https://subtle-elf-f0dcbc.netlify.app
+
 ## Setup
 
 HTML head must follow the same format as index.html i.e Bootstrap then TinySlider then custom CSS and JS
