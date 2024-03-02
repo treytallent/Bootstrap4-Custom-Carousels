@@ -1,5 +1,7 @@
 Live preview https://subtle-elf-f0dcbc.netlify.app
 
+Made for the website of Murdoch University's annual creative media showcase
+
 ## Setup
 
 HTML head must follow the same format as index.html i.e Bootstrap then TinySlider then custom CSS and JS
